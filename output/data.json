@@ -1,0 +1,5188 @@
+[
+  {
+    "type": "table",
+    "title": "Annual comparison",
+    "headers": [
+      "",
+      "2019",
+      "2018",
+      "2017"
+    ],
+    "list": [
+      [
+        "Active repositories",
+        "111",
+        "61",
+        "32"
+      ],
+      [
+        "Active contributors",
+        "62",
+        "42",
+        "27"
+      ],
+      [
+        "Pull Requests",
+        "9 968",
+        "5 589",
+        "4 431"
+      ],
+      [
+        "Commits",
+        "34 805",
+        "23 612",
+        "14 429"
+      ],
+      [
+        "Lines of code added",
+        "1 799 207",
+        "2 038 807",
+        "5 822 256"
+      ],
+      [
+        "Lines of code deleted",
+        "1 646 631",
+        "1 294 957",
+        "5 488 278"
+      ],
+      [
+        "Changed files",
+        "81 464",
+        "55 612",
+        "-"
+      ],
+      [
+        "Reviews",
+        "21 344",
+        "15 853",
+        "-"
+      ]
+    ]
+  },
+  {
+    "type": "table",
+    "title": "Who are the most active developers ?",
+    "headers": [
+      "",
+      "Points",
+      "Commits",
+      "Additions",
+      "Deletions",
+      "PR",
+      "Reviews"
+    ],
+    "list": [
+      [
+        "1. lowki93",
+        "244 901",
+        "1 122",
+        "148 454",
+        "78 567",
+        "249",
+        "168"
+      ],
+      [
+        "2. Galalafm",
+        "240 002",
+        "873",
+        "45 777",
+        "182 665",
+        "141",
+        "1"
+      ],
+      [
+        "3. cristian-rivera",
+        "206 203",
+        "1 585",
+        "41 210",
+        "141 793",
+        "171",
+        "393"
+      ],
+      [
+        "4. mvpaudrey",
+        "169 011",
+        "361",
+        "128 056",
+        "34 075",
+        "77",
+        "173"
+      ],
+      [
+        "5. mbiamont",
+        "160 626",
+        "1 208",
+        "97 769",
+        "36 177",
+        "292",
+        "876"
+      ],
+      [
+        "6. tanguydherouville",
+        "114 597",
+        "408",
+        "95 365",
+        "10 552",
+        "163",
+        "134"
+      ],
+      [
+        "7. Fgabz",
+        "97 462",
+        "1 359",
+        "42 666",
+        "33 596",
+        "176",
+        "409"
+      ],
+      [
+        "8. alizeec",
+        "96 559",
+        "871",
+        "54 096",
+        "22 283",
+        "277",
+        "593"
+      ],
+      [
+        "9. pwaleczek",
+        "84 151",
+        "737",
+        "46 172",
+        "21 169",
+        "226",
+        "492"
+      ],
+      [
+        "10. markomilicevic",
+        "83 586",
+        "513",
+        "40 641",
+        "18 585",
+        "266",
+        "1 391"
+      ],
+      [
+        "11. ethnt",
+        "78 579",
+        "910",
+        "37 670",
+        "24 769",
+        "263",
+        "178"
+      ],
+      [
+        "12. Dammmien",
+        "78 335",
+        "786",
+        "34 370",
+        "30 445",
+        "162",
+        "242"
+      ],
+      [
+        "13. avarona",
+        "77 168",
+        "912",
+        "35 708",
+        "24 190",
+        "245",
+        "325"
+      ],
+      [
+        "14. nbenbourahla",
+        "75 505",
+        "831",
+        "27 557",
+        "29 048",
+        "195",
+        "669"
+      ],
+      [
+        "15. joeldarling",
+        "72 676",
+        "769",
+        "47 894",
+        "9 252",
+        "226",
+        "332"
+      ],
+      [
+        "16. hereismass",
+        "70 917",
+        "608",
+        "46 455",
+        "12 092",
+        "160",
+        "309"
+      ],
+      [
+        "17. AlanChauchet",
+        "66 213",
+        "382",
+        "36 944",
+        "21 409",
+        "152",
+        "100"
+      ],
+      [
+        "18. MindRave",
+        "64 184",
+        "291",
+        "36 121",
+        "18 673",
+        "244",
+        "160"
+      ],
+      [
+        "19. eulbat",
+        "62 940",
+        "885",
+        "29 280",
+        "14 210",
+        "218",
+        "624"
+      ],
+      [
+        "20. alessandroliveri",
+        "59 114",
+        "877",
+        "25 007",
+        "19 027",
+        "166",
+        "299"
+      ],
+      [
+        "21. quentin-sommer",
+        "58 729",
+        "1 441",
+        "24 367",
+        "8 832",
+        "302",
+        "508"
+      ],
+      [
+        "22. JoWilfrid",
+        "56 915",
+        "752",
+        "30 612",
+        "11 223",
+        "218",
+        "320"
+      ],
+      [
+        "23. litil",
+        "54 552",
+        "543",
+        "25 197",
+        "12 275",
+        "231",
+        "703"
+      ],
+      [
+        "24. lilfaf",
+        "52 941",
+        "956",
+        "21 329",
+        "10 972",
+        "259",
+        "590"
+      ],
+      [
+        "25. JulienAmoros",
+        "52 578",
+        "1 006",
+        "25 690",
+        "9 218",
+        "211",
+        "339"
+      ],
+      [
+        "26. bonclay7",
+        "43 707",
+        "729",
+        "18 970",
+        "9 747",
+        "207",
+        "356"
+      ],
+      [
+        "27. tpilewicz",
+        "42 177",
+        "541",
+        "13 372",
+        "17 225",
+        "254",
+        "109"
+      ],
+      [
+        "28. zayneio",
+        "40 507",
+        "1 263",
+        "18 805",
+        "5 312",
+        "129",
+        "118"
+      ],
+      [
+        "29. martinchenu",
+        "38 950",
+        "1 265",
+        "14 779",
+        "6 041",
+        "140",
+        "268"
+      ],
+      [
+        "30. chrsvl",
+        "38 898",
+        "534",
+        "16 149",
+        "6 249",
+        "112",
+        "892"
+      ],
+      [
+        "31. pragunbhutani",
+        "34 942",
+        "421",
+        "6 967",
+        "17 815",
+        "191",
+        "213"
+      ],
+      [
+        "32. JohGirard",
+        "31 930",
+        "750",
+        "12 231",
+        "7 389",
+        "149",
+        "183"
+      ],
+      [
+        "33. Shinomix",
+        "30 913",
+        "427",
+        "13 279",
+        "8 114",
+        "134",
+        "257"
+      ],
+      [
+        "34. kimious",
+        "26 934",
+        "528",
+        "12 797",
+        "5 057",
+        "87",
+        "206"
+      ],
+      [
+        "35. xdurand",
+        "25 108",
+        "344",
+        "7 331",
+        "8 267",
+        "102",
+        "403"
+      ],
+      [
+        "36. farisj",
+        "23 906",
+        "350",
+        "9 470",
+        "6 516",
+        "191",
+        "60"
+      ],
+      [
+        "37. karol-blaszczyk",
+        "21 151",
+        "305",
+        "8 209",
+        "6 282",
+        "98",
+        "165"
+      ],
+      [
+        "38. tildedash",
+        "19 677",
+        "448",
+        "6 855",
+        "2 122",
+        "45",
+        "532"
+      ],
+      [
+        "39. allegrem",
+        "19 635",
+        "210",
+        "4 414",
+        "3 751",
+        "82",
+        "773"
+      ],
+      [
+        "40. aherve",
+        "18 037",
+        "113",
+        "11 422",
+        "4 265",
+        "48",
+        "26"
+      ],
+      [
+        "41. hwd",
+        "16 617",
+        "276",
+        "6 024",
+        "3 493",
+        "62",
+        "310"
+      ],
+      [
+        "42. ManalTab",
+        "15 615",
+        "622",
+        "5 273",
+        "2 242",
+        "45",
+        "98"
+      ],
+      [
+        "43. MalekMansour",
+        "14 427",
+        "36",
+        "7 769",
+        "6 158",
+        "2",
+        "10"
+      ],
+      [
+        "44. pbechu",
+        "13 450",
+        "263",
+        "7 180",
+        "1 160",
+        "83",
+        "82"
+      ],
+      [
+        "45. louis-HF",
+        "11 727",
+        "256",
+        "4 028",
+        "1 459",
+        "104",
+        "160"
+      ],
+      [
+        "46. YanisAircall",
+        "9 561",
+        "13",
+        "5 629",
+        "3 262",
+        "7",
+        "40"
+      ],
+      [
+        "47. flomarin88",
+        "7 777",
+        "117",
+        "2 741",
+        "1 526",
+        "31",
+        "172"
+      ],
+      [
+        "48. tonylemeunier",
+        "6 296",
+        "171",
+        "2 452",
+        "274",
+        "83",
+        "20"
+      ],
+      [
+        "49. vjrabanelly",
+        "5 860",
+        "117",
+        "1 590",
+        "1 620",
+        "41",
+        "66"
+      ],
+      [
+        "50. pandarouxbsd",
+        "5 405",
+        "169",
+        "2 449",
+        "356",
+        "30",
+        "31"
+      ],
+      [
+        "51. MarieSergue",
+        "5 152",
+        "122",
+        "1 544",
+        "1 088",
+        "47",
+        "36"
+      ],
+      [
+        "52. Rheaakiki",
+        "4 250",
+        "109",
+        "1 197",
+        "623",
+        "48",
+        "38"
+      ],
+      [
+        "53. Ghivalla",
+        "2 179",
+        "25",
+        "1 419",
+        "330",
+        "9",
+        "0"
+      ],
+      [
+        "54. dvxam",
+        "1 960",
+        "59",
+        "1 127",
+        "103",
+        "6",
+        "2"
+      ],
+      [
+        "55. GourmandGuedj",
+        "1 817",
+        "20",
+        "826",
+        "341",
+        "16",
+        "13"
+      ],
+      [
+        "56. cdemonchy-pro",
+        "1 798",
+        "6",
+        "719",
+        "559",
+        "5",
+        "36"
+      ],
+      [
+        "57. edflouriot",
+        "1 627",
+        "58",
+        "416",
+        "91",
+        "16",
+        "22"
+      ],
+      [
+        "58. ludovicVivet",
+        "1 565",
+        "25",
+        "564",
+        "551",
+        "10",
+        "0"
+      ],
+      [
+        "59. eyask",
+        "522",
+        "23",
+        "119",
+        "53",
+        "6",
+        "0"
+      ],
+      [
+        "60. garfieldduck",
+        "463",
+        "16",
+        "173",
+        "60",
+        "3",
+        "1"
+      ],
+      [
+        "61. doucetm",
+        "370",
+        "19",
+        "34",
+        "6",
+        "7",
+        "0"
+      ],
+      [
+        "62. bunnybilou",
+        "358",
+        "15",
+        "111",
+        "7",
+        "4",
+        "1"
+      ]
+    ]
+  },
+  {
+    "type": "pie",
+    "title": "What language do we used ?",
+    "data": [
+      {
+        "label": ".rb",
+        "value": 16.499694456889106
+      },
+      {
+        "label": ".ts",
+        "value": 9.623416970606478
+      },
+      {
+        "label": ".kt",
+        "value": 8.88177634610751
+      },
+      {
+        "label": ".swift",
+        "value": 7.171651096336324
+      },
+      {
+        "label": ".tsx",
+        "value": 6.37284138602051
+      },
+      {
+        "label": ".json",
+        "value": 5.745309890343464
+      },
+      {
+        "label": ".yml",
+        "value": 5.318328280648905
+      },
+      {
+        "label": ".js",
+        "value": 4.720389116252053
+      },
+      {
+        "label": ".csv",
+        "value": 4.713242980524948
+      },
+      {
+        "label": ".html",
+        "value": 3.0858938029260674
+      },
+      {
+        "label": ".scss",
+        "value": 2.4141570445781446
+      },
+      {
+        "label": ".py",
+        "value": 2.373937126831999
+      },
+      {
+        "label": ".txt",
+        "value": 2.2887790094173246
+      },
+      {
+        "label": ".tf",
+        "value": 2.12093643695505
+      },
+      {
+        "label": ".snap",
+        "value": 1.8563003722403777
+      },
+      {
+        "label": ".sql",
+        "value": 1.7516278072632223
+      },
+      {
+        "label": ".xml",
+        "value": 1.4520398094730274
+      },
+      {
+        "label": ".vue",
+        "value": 1.2514441149281859
+      },
+      {
+        "label": ".md",
+        "value": 0.6356854197759229
+      },
+      {
+        "label": ".java",
+        "value": 0.43105857174399614
+      },
+      {
+        "label": ".go",
+        "value": 0.42281303052041275
+      },
+      {
+        "label": ".svg",
+        "value": 0.34979418212934693
+      },
+      {
+        "label": "",
+        "value": 0.3452133258940228
+      },
+      {
+        "label": ".log",
+        "value": 0.3296384146939209
+      },
+      {
+        "label": ".jsx",
+        "value": 0.2349063077474189
+      },
+      {
+        "label": ".pug",
+        "value": 0.22560716958971105
+      },
+      {
+        "label": ".xib",
+        "value": 0.2114523238225596
+      },
+      {
+        "label": ".erb",
+        "value": 0.20755859602253415
+      },
+      {
+        "label": ".storyboard",
+        "value": 0.20004599179660265
+      },
+      {
+        "label": ".m",
+        "value": 0.1694458721446378
+      },
+      {
+        "label": ".sh",
+        "value": 0.16917102077051835
+      },
+      {
+        "label": ".liquid",
+        "value": 0.13032535989497013
+      },
+      {
+        "label": ".gradle",
+        "value": 0.11557500281722659
+      },
+      {
+        "label": ".tfvars",
+        "value": 0.08776920546880941
+      },
+      {
+        "label": ".xcscheme",
+        "value": 0.07686676762873809
+      },
+      {
+        "label": ".haml",
+        "value": 0.07329369976518531
+      },
+      {
+        "label": ".old",
+        "value": 0.07091165452281678
+      },
+      {
+        "label": ".h",
+        "value": 0.062391261925113996
+      },
+      {
+        "label": ".css",
+        "value": 0.058039448501556117
+      },
+      {
+        "label": ".strings",
+        "value": 0.040174109183792196
+      },
+      {
+        "label": ".plist",
+        "value": 0.039303746499080625
+      },
+      {
+        "label": ".rake",
+        "value": 0.0344480388896371
+      },
+      {
+        "label": ".config",
+        "value": 0.02537794354369541
+      },
+      {
+        "label": ".jbuilder",
+        "value": 0.024736623670750045
+      },
+      {
+        "label": ".proto",
+        "value": 0.02359140961191902
+      },
+      {
+        "label": ".sum",
+        "value": 0.023408175362506056
+      },
+      {
+        "label": ".coffee",
+        "value": 0.021026130120137536
+      },
+      {
+        "label": ".example",
+        "value": 0.020934512995431056
+      },
+      {
+        "label": ".scala",
+        "value": 0.02001834174836624
+      },
+      {
+        "label": ".feature",
+        "value": 0.018231807816589844
+      },
+      {
+        "label": ".gradle-e",
+        "value": 0.015208442701275951
+      },
+      {
+        "label": ".stencil",
+        "value": 0.010810820715364834
+      },
+      {
+        "label": ".mod",
+        "value": 0.009848840905946775
+      },
+      {
+        "label": ".dev",
+        "value": 0.009482372407120849
+      },
+      {
+        "label": ".apib",
+        "value": 0.009207521033001403
+      },
+      {
+        "label": ".pro",
+        "value": 0.009161712470648163
+      },
+      {
+        "label": ".yaml",
+        "value": 0.008520392597702793
+      },
+      {
+        "label": ".cfg",
+        "value": 0.005909304543568065
+      },
+      {
+        "label": ".gemspec",
+        "value": 0.005588644607095379
+      },
+      {
+        "label": ".ru",
+        "value": 0.004718281922383804
+      },
+      {
+        "label": ".docker",
+        "value": 0.004535047672970841
+      },
+      {
+        "label": ".podspec",
+        "value": 0.004076962049438433
+      },
+      {
+        "label": ".jemalloc",
+        "value": 0.0035730678635527836
+      },
+      {
+        "label": ".properties",
+        "value": 0.0035272593011995428
+      },
+      {
+        "label": ".xcconfig",
+        "value": 0.003160790802373616
+      },
+      {
+        "label": ".xcworkspacedata",
+        "value": 0.003023365115313894
+      },
+      {
+        "label": ".markdown",
+        "value": 0.002198810992955559
+      },
+      {
+        "label": ".locked",
+        "value": 0.0021530024306023188
+      },
+      {
+        "label": ".tpl",
+        "value": 0.0019697681811893554
+      },
+      {
+        "label": ".xcfilelist",
+        "value": 0.0019239596188361143
+      },
+      {
+        "label": ".test",
+        "value": 0.0018323424941296327
+      },
+      {
+        "label": ".hql",
+        "value": 0.0014658739953037061
+      },
+      {
+        "label": ".env",
+        "value": 0.0013742568705972247
+      },
+      {
+        "label": ".ejs",
+        "value": 0.0013284483082439838
+      },
+      {
+        "label": ".repo",
+        "value": 0.0008245541223583346
+      },
+      {
+        "label": ".sass",
+        "value": 0.0006871284352986123
+      },
+      {
+        "label": ".production",
+        "value": 0.0005955113105921306
+      },
+      {
+        "label": ".staging",
+        "value": 0.0005955113105921306
+      },
+      {
+        "label": ".map",
+        "value": 0.0005955113105921306
+      },
+      {
+        "label": ".ex",
+        "value": 0.0005497027482388898
+      },
+      {
+        "label": ".pch",
+        "value": 0.0005497027482388898
+      },
+      {
+        "label": ".template",
+        "value": 0.00045808562353240816
+      },
+      {
+        "label": ".tmp",
+        "value": 0.00045808562353240816
+      },
+      {
+        "label": ".rdoc",
+        "value": 0.0002748513741194449
+      },
+      {
+        "label": ".modulemap",
+        "value": 0.0002748513741194449
+      },
+      {
+        "label": ".ci",
+        "value": 0.00022904281176620408
+      },
+      {
+        "label": ".conf",
+        "value": 0.00018323424941296327
+      },
+      {
+        "label": ".bat",
+        "value": 0.00018323424941296327
+      },
+      {
+        "label": ".builder",
+        "value": 0.00018323424941296327
+      },
+      {
+        "label": ".MockMaker",
+        "value": 0.00013742568705972245
+      },
+      {
+        "label": ".prod",
+        "value": 0.000045808562353240816
+      },
+      {
+        "label": ".png",
+        "value": 0
+      },
+      {
+        "label": ".gif",
+        "value": 0
+      },
+      {
+        "label": ".ac3",
+        "value": 0
+      },
+      {
+        "label": ".m4a",
+        "value": 0
+      },
+      {
+        "label": ".mp3",
+        "value": 0
+      },
+      {
+        "label": ".cur",
+        "value": 0
+      },
+      {
+        "label": ".jpg",
+        "value": 0
+      },
+      {
+        "label": ".xlsx",
+        "value": 0
+      },
+      {
+        "label": ".p12",
+        "value": 0
+      },
+      {
+        "label": ".pdf",
+        "value": 0
+      },
+      {
+        "label": ".docx",
+        "value": 0
+      },
+      {
+        "label": ".woff2",
+        "value": 0
+      },
+      {
+        "label": ".ico",
+        "value": 0
+      },
+      {
+        "label": ".keystore",
+        "value": 0
+      },
+      {
+        "label": ".otf",
+        "value": 0
+      },
+      {
+        "label": ".orc",
+        "value": 0
+      },
+      {
+        "label": ".jar",
+        "value": 0
+      },
+      {
+        "label": ".zip",
+        "value": 0
+      },
+      {
+        "label": ".dsidx",
+        "value": 0
+      },
+      {
+        "label": ".tgz",
+        "value": 0
+      },
+      {
+        "label": ".icns",
+        "value": 0
+      },
+      {
+        "label": ".cer",
+        "value": 0
+      },
+      {
+        "label": ".pfx",
+        "value": 0
+      },
+      {
+        "label": ".pstore",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "type": "chart",
+    "title": "Who opened the most of pull requests ?",
+    "data": [
+      {
+        "label": "quentin-sommer",
+        "value": 302
+      },
+      {
+        "label": "mbiamont",
+        "value": 292
+      },
+      {
+        "label": "alizeec",
+        "value": 277
+      },
+      {
+        "label": "markomilicevic",
+        "value": 266
+      },
+      {
+        "label": "ethnt",
+        "value": 263
+      },
+      {
+        "label": "lilfaf",
+        "value": 259
+      },
+      {
+        "label": "tpilewicz",
+        "value": 254
+      },
+      {
+        "label": "lowki93",
+        "value": 249
+      },
+      {
+        "label": "avarona",
+        "value": 245
+      },
+      {
+        "label": "MindRave",
+        "value": 244
+      },
+      {
+        "label": "litil",
+        "value": 231
+      },
+      {
+        "label": "pwaleczek",
+        "value": 226
+      },
+      {
+        "label": "joeldarling",
+        "value": 226
+      },
+      {
+        "label": "eulbat",
+        "value": 218
+      },
+      {
+        "label": "JoWilfrid",
+        "value": 218
+      },
+      {
+        "label": "JulienAmoros",
+        "value": 211
+      },
+      {
+        "label": "bonclay7",
+        "value": 207
+      },
+      {
+        "label": "nbenbourahla",
+        "value": 195
+      },
+      {
+        "label": "pragunbhutani",
+        "value": 191
+      },
+      {
+        "label": "farisj",
+        "value": 191
+      },
+      {
+        "label": "Fgabz",
+        "value": 176
+      },
+      {
+        "label": "cristian-rivera",
+        "value": 171
+      },
+      {
+        "label": "alessandroliveri",
+        "value": 166
+      },
+      {
+        "label": "tanguydherouville",
+        "value": 163
+      },
+      {
+        "label": "Dammmien",
+        "value": 162
+      },
+      {
+        "label": "hereismass",
+        "value": 160
+      },
+      {
+        "label": "AlanChauchet",
+        "value": 152
+      },
+      {
+        "label": "JohGirard",
+        "value": 149
+      },
+      {
+        "label": "Galalafm",
+        "value": 141
+      },
+      {
+        "label": "martinchenu",
+        "value": 140
+      },
+      {
+        "label": "Shinomix",
+        "value": 134
+      },
+      {
+        "label": "zayneio",
+        "value": 129
+      },
+      {
+        "label": "chrsvl",
+        "value": 112
+      },
+      {
+        "label": "louis-HF",
+        "value": 104
+      },
+      {
+        "label": "xdurand",
+        "value": 102
+      },
+      {
+        "label": "karol-blaszczyk",
+        "value": 98
+      },
+      {
+        "label": "kimious",
+        "value": 87
+      },
+      {
+        "label": "pbechu",
+        "value": 83
+      },
+      {
+        "label": "tonylemeunier",
+        "value": 83
+      },
+      {
+        "label": "allegrem",
+        "value": 82
+      },
+      {
+        "label": "mvpaudrey",
+        "value": 77
+      },
+      {
+        "label": "hwd",
+        "value": 62
+      },
+      {
+        "label": "aherve",
+        "value": 48
+      },
+      {
+        "label": "Rheaakiki",
+        "value": 48
+      },
+      {
+        "label": "MarieSergue",
+        "value": 47
+      },
+      {
+        "label": "tildedash",
+        "value": 45
+      },
+      {
+        "label": "ManalTab",
+        "value": 45
+      },
+      {
+        "label": "vjrabanelly",
+        "value": 41
+      },
+      {
+        "label": "flomarin88",
+        "value": 31
+      },
+      {
+        "label": "pandarouxbsd",
+        "value": 30
+      },
+      {
+        "label": "GourmandGuedj",
+        "value": 16
+      },
+      {
+        "label": "edflouriot",
+        "value": 16
+      },
+      {
+        "label": "ludovicVivet",
+        "value": 10
+      },
+      {
+        "label": "Ghivalla",
+        "value": 9
+      },
+      {
+        "label": "YanisAircall",
+        "value": 7
+      },
+      {
+        "label": "doucetm",
+        "value": 7
+      },
+      {
+        "label": "dvxam",
+        "value": 6
+      },
+      {
+        "label": "eyask",
+        "value": 6
+      },
+      {
+        "label": "cdemonchy-pro",
+        "value": 5
+      },
+      {
+        "label": "bunnybilou",
+        "value": 4
+      },
+      {
+        "label": "garfieldduck",
+        "value": 3
+      },
+      {
+        "label": "MalekMansour",
+        "value": 2
+      }
+    ]
+  },
+  {
+    "type": "chart",
+    "title": "Who did the most of reviews ?",
+    "data": [
+      {
+        "label": "markomilicevic",
+        "value": 1391
+      },
+      {
+        "label": "chrsvl",
+        "value": 892
+      },
+      {
+        "label": "mbiamont",
+        "value": 876
+      },
+      {
+        "label": "allegrem",
+        "value": 773
+      },
+      {
+        "label": "litil",
+        "value": 703
+      },
+      {
+        "label": "nbenbourahla",
+        "value": 669
+      },
+      {
+        "label": "eulbat",
+        "value": 624
+      },
+      {
+        "label": "alizeec",
+        "value": 593
+      },
+      {
+        "label": "lilfaf",
+        "value": 590
+      },
+      {
+        "label": "tildedash",
+        "value": 532
+      },
+      {
+        "label": "quentin-sommer",
+        "value": 508
+      },
+      {
+        "label": "pwaleczek",
+        "value": 492
+      },
+      {
+        "label": "Fgabz",
+        "value": 409
+      },
+      {
+        "label": "xdurand",
+        "value": 403
+      },
+      {
+        "label": "cristian-rivera",
+        "value": 393
+      },
+      {
+        "label": "bonclay7",
+        "value": 356
+      },
+      {
+        "label": "JulienAmoros",
+        "value": 339
+      },
+      {
+        "label": "joeldarling",
+        "value": 332
+      },
+      {
+        "label": "avarona",
+        "value": 325
+      },
+      {
+        "label": "JoWilfrid",
+        "value": 320
+      },
+      {
+        "label": "hwd",
+        "value": 310
+      },
+      {
+        "label": "hereismass",
+        "value": 309
+      },
+      {
+        "label": "alessandroliveri",
+        "value": 299
+      },
+      {
+        "label": "martinchenu",
+        "value": 268
+      },
+      {
+        "label": "Shinomix",
+        "value": 257
+      },
+      {
+        "label": "Dammmien",
+        "value": 242
+      },
+      {
+        "label": "pragunbhutani",
+        "value": 213
+      },
+      {
+        "label": "kimious",
+        "value": 206
+      },
+      {
+        "label": "JohGirard",
+        "value": 183
+      },
+      {
+        "label": "ethnt",
+        "value": 178
+      },
+      {
+        "label": "mvpaudrey",
+        "value": 173
+      },
+      {
+        "label": "flomarin88",
+        "value": 172
+      },
+      {
+        "label": "lowki93",
+        "value": 168
+      },
+      {
+        "label": "karol-blaszczyk",
+        "value": 165
+      },
+      {
+        "label": "MindRave",
+        "value": 160
+      },
+      {
+        "label": "louis-HF",
+        "value": 160
+      },
+      {
+        "label": "tanguydherouville",
+        "value": 134
+      },
+      {
+        "label": "zayneio",
+        "value": 118
+      },
+      {
+        "label": "tpilewicz",
+        "value": 109
+      },
+      {
+        "label": "AlanChauchet",
+        "value": 100
+      },
+      {
+        "label": "ManalTab",
+        "value": 98
+      },
+      {
+        "label": "pbechu",
+        "value": 82
+      },
+      {
+        "label": "vjrabanelly",
+        "value": 66
+      },
+      {
+        "label": "farisj",
+        "value": 60
+      },
+      {
+        "label": "YanisAircall",
+        "value": 40
+      },
+      {
+        "label": "Rheaakiki",
+        "value": 38
+      },
+      {
+        "label": "MarieSergue",
+        "value": 36
+      },
+      {
+        "label": "cdemonchy-pro",
+        "value": 36
+      },
+      {
+        "label": "pandarouxbsd",
+        "value": 31
+      },
+      {
+        "label": "aherve",
+        "value": 26
+      },
+      {
+        "label": "edflouriot",
+        "value": 22
+      },
+      {
+        "label": "tonylemeunier",
+        "value": 20
+      },
+      {
+        "label": "GourmandGuedj",
+        "value": 13
+      },
+      {
+        "label": "MalekMansour",
+        "value": 10
+      },
+      {
+        "label": "dvxam",
+        "value": 2
+      },
+      {
+        "label": "Galalafm",
+        "value": 1
+      },
+      {
+        "label": "bunnybilou",
+        "value": 1
+      },
+      {
+        "label": "garfieldduck",
+        "value": 1
+      },
+      {
+        "label": "ludovicVivet",
+        "value": 0
+      },
+      {
+        "label": "Ghivalla",
+        "value": 0
+      },
+      {
+        "label": "doucetm",
+        "value": 0
+      },
+      {
+        "label": "eyask",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "type": "table",
+    "title": "Who merge his pull requests the most quickly on average ?",
+    "headers": [
+      "",
+      "Open duration of a PR on average"
+    ],
+    "list": [
+      [
+        "1. tonylemeunier",
+        "4 hours, 13 minutes and 43 seconds"
+      ],
+      [
+        "2. Galalafm",
+        "4 hours, 39 minutes and 55 seconds"
+      ],
+      [
+        "3. tpilewicz",
+        "9 hours, 37 minutes and 26 seconds"
+      ],
+      [
+        "4. pragunbhutani",
+        "13 hours, 34 minutes and 28 seconds"
+      ],
+      [
+        "5. tanguydherouville",
+        "13 hours, 45 minutes and 36 seconds"
+      ],
+      [
+        "6. louis-HF",
+        "14 hours, 31 minutes and 56 seconds"
+      ],
+      [
+        "7. alessandroliveri",
+        "21 hours, 10 minutes and 24 seconds"
+      ],
+      [
+        "8. alizeec",
+        "22 hours, 48 minutes and 14 seconds"
+      ],
+      [
+        "9. chrsvl",
+        "1 day and 17 minutes"
+      ],
+      [
+        "10. nbenbourahla",
+        "1 day, 2 hours and 25 minutes"
+      ],
+      [
+        "11. AlanChauchet",
+        "1 day, 4 hours and 9 minutes"
+      ],
+      [
+        "12. xdurand",
+        "1 day, 4 hours and 56 minutes"
+      ],
+      [
+        "13. hereismass",
+        "1 day, 6 hours and 17 minutes"
+      ],
+      [
+        "14. litil",
+        "1 day, 6 hours and 21 minutes"
+      ],
+      [
+        "15. allegrem",
+        "1 day, 7 hours and 12 minutes"
+      ],
+      [
+        "16. eulbat",
+        "1 day, 9 hours and 19 minutes"
+      ],
+      [
+        "17. pwaleczek",
+        "1 day, 9 hours and 27 minutes"
+      ],
+      [
+        "18. Dammmien",
+        "1 day, 9 hours and 51 minutes"
+      ],
+      [
+        "19. mbiamont",
+        "1 day, 9 hours and 54 minutes"
+      ],
+      [
+        "20. pbechu",
+        "1 day, 10 hours and 23 minutes"
+      ],
+      [
+        "21. MindRave",
+        "1 day, 12 hours and 20 minutes"
+      ],
+      [
+        "22. Shinomix",
+        "1 day, 13 hours and 12 minutes"
+      ],
+      [
+        "23. Fgabz",
+        "1 day, 13 hours and 31 minutes"
+      ],
+      [
+        "24. markomilicevic",
+        "1 day, 15 hours and 14 minutes"
+      ],
+      [
+        "25. bonclay7",
+        "1 day, 18 hours and 29 minutes"
+      ],
+      [
+        "26. joeldarling",
+        "1 day, 18 hours and 45 minutes"
+      ],
+      [
+        "27. JulienAmoros",
+        "1 day, 18 hours and 59 minutes"
+      ],
+      [
+        "28. avarona",
+        "1 day, 20 hours and 51 minutes"
+      ],
+      [
+        "29. quentin-sommer",
+        "1 day, 21 hours and 13 minutes"
+      ],
+      [
+        "30. martinchenu",
+        "1 day, 21 hours and 38 minutes"
+      ],
+      [
+        "31. kimious",
+        "2 days and 39 minutes"
+      ],
+      [
+        "32. lowki93",
+        "2 days, 5 hours and 50 minutes"
+      ],
+      [
+        "33. lilfaf",
+        "2 days, 10 hours and 23 minutes"
+      ],
+      [
+        "34. karol-blaszczyk",
+        "2 days, 11 hours and 58 minutes"
+      ],
+      [
+        "35. JoWilfrid",
+        "2 days, 15 hours and 58 minutes"
+      ],
+      [
+        "36. hwd",
+        "2 days, 16 hours and 50 minutes"
+      ],
+      [
+        "37. JohGirard",
+        "2 days, 19 hours and 47 minutes"
+      ],
+      [
+        "38. cristian-rivera",
+        "2 days, 23 hours and 17 minutes"
+      ],
+      [
+        "39. ethnt",
+        "3 days, 1 hour and 18 minutes"
+      ],
+      [
+        "40. farisj",
+        "3 days, 16 hours and 4 minutes"
+      ],
+      [
+        "41. mvpaudrey",
+        "4 days, 4 hours and 4 minutes"
+      ],
+      [
+        "42. zayneio",
+        "1 week and 11 hours"
+      ]
+    ]
+  },
+  {
+    "type": "table",
+    "title": "Who make the biggest pull requests on average ?",
+    "headers": [
+      "",
+      "Points",
+      "Average deletions",
+      "Average additions",
+      "Average changed files"
+    ],
+    "list": [
+      [
+        "1. MalekMansour",
+        "25 604",
+        "3 079",
+        "3 885",
+        "466"
+      ],
+      [
+        "2. mvpaudrey",
+        "3 809",
+        "443",
+        "1 663",
+        "43"
+      ],
+      [
+        "3. Galalafm",
+        "2 342",
+        "1 295",
+        "325",
+        "18"
+      ],
+      [
+        "4. YanisAircall",
+        "2 184",
+        "466",
+        "804",
+        "23"
+      ],
+      [
+        "5. lowki93",
+        "2 084",
+        "316",
+        "596",
+        "29"
+      ],
+      [
+        "6. cristian-rivera",
+        "1 832",
+        "829",
+        "241",
+        "19"
+      ],
+      [
+        "7. mbiamont",
+        "1 191",
+        "124",
+        "335",
+        "18"
+      ],
+      [
+        "8. Fgabz",
+        "1 187",
+        "191",
+        "242",
+        "19"
+      ],
+      [
+        "9. aherve",
+        "848",
+        "89",
+        "238",
+        "13"
+      ],
+      [
+        "10. tanguydherouville",
+        "799",
+        "65",
+        "585",
+        "4"
+      ],
+      [
+        "11. alizeec",
+        "786",
+        "80",
+        "195",
+        "13"
+      ],
+      [
+        "12. Dammmien",
+        "784",
+        "188",
+        "212",
+        "10"
+      ],
+      [
+        "13. pwaleczek",
+        "763",
+        "94",
+        "204",
+        "12"
+      ],
+      [
+        "14. AlanChauchet",
+        "705",
+        "141",
+        "243",
+        "8"
+      ],
+      [
+        "15. MindRave",
+        "649",
+        "77",
+        "148",
+        "11"
+      ],
+      [
+        "16. avarona",
+        "644",
+        "99",
+        "146",
+        "10"
+      ],
+      [
+        "17. nbenbourahla",
+        "641",
+        "149",
+        "141",
+        "9"
+      ],
+      [
+        "18. cdemonchy-pro",
+        "616",
+        "112",
+        "144",
+        "9"
+      ],
+      [
+        "19. hereismass",
+        "600",
+        "76",
+        "290",
+        "6"
+      ],
+      [
+        "20. alessandroliveri",
+        "575",
+        "115",
+        "151",
+        "8"
+      ],
+      [
+        "21. markomilicevic",
+        "554",
+        "70",
+        "153",
+        "8"
+      ],
+      [
+        "22. joeldarling",
+        "548",
+        "41",
+        "212",
+        "7"
+      ],
+      [
+        "23. chrsvl",
+        "539",
+        "56",
+        "144",
+        "8"
+      ],
+      [
+        "24. ethnt",
+        "524",
+        "94",
+        "143",
+        "7"
+      ],
+      [
+        "25. kimious",
+        "516",
+        "58",
+        "147",
+        "8"
+      ],
+      [
+        "26. zayneio",
+        "487",
+        "41",
+        "146",
+        "7"
+      ],
+      [
+        "27. karol-blaszczyk",
+        "485",
+        "64",
+        "84",
+        "8"
+      ],
+      [
+        "28. dvxam",
+        "472",
+        "17",
+        "188",
+        "7"
+      ],
+      [
+        "29. tildedash",
+        "460",
+        "47",
+        "152",
+        "7"
+      ],
+      [
+        "30. JoWilfrid",
+        "453",
+        "51",
+        "140",
+        "7"
+      ],
+      [
+        "31. eulbat",
+        "438",
+        "65",
+        "134",
+        "6"
+      ],
+      [
+        "32. martinchenu",
+        "421",
+        "43",
+        "106",
+        "7"
+      ],
+      [
+        "33. xdurand",
+        "399",
+        "81",
+        "72",
+        "6"
+      ],
+      [
+        "34. litil",
+        "396",
+        "53",
+        "109",
+        "6"
+      ],
+      [
+        "35. lilfaf",
+        "381",
+        "42",
+        "82",
+        "6"
+      ],
+      [
+        "36. JulienAmoros",
+        "380",
+        "44",
+        "122",
+        "5"
+      ],
+      [
+        "37. ManalTab",
+        "371",
+        "50",
+        "117",
+        "5"
+      ],
+      [
+        "38. Shinomix",
+        "369",
+        "61",
+        "99",
+        "5"
+      ],
+      [
+        "39. hwd",
+        "362",
+        "56",
+        "97",
+        "5"
+      ],
+      [
+        "40. flomarin88",
+        "351",
+        "49",
+        "88",
+        "5"
+      ],
+      [
+        "41. quentin-sommer",
+        "345",
+        "29",
+        "81",
+        "6"
+      ],
+      [
+        "42. Ghivalla",
+        "332",
+        "37",
+        "158",
+        "3"
+      ],
+      [
+        "43. bonclay7",
+        "317",
+        "47",
+        "92",
+        "4"
+      ],
+      [
+        "44. garfieldduck",
+        "304",
+        "20",
+        "58",
+        "6"
+      ],
+      [
+        "45. ludovicVivet",
+        "296",
+        "55",
+        "56",
+        "5"
+      ],
+      [
+        "46. JohGirard",
+        "286",
+        "50",
+        "82",
+        "4"
+      ],
+      [
+        "47. farisj",
+        "269",
+        "34",
+        "50",
+        "5"
+      ],
+      [
+        "48. allegrem",
+        "258",
+        "46",
+        "54",
+        "4"
+      ],
+      [
+        "49. pandarouxbsd",
+        "250",
+        "12",
+        "82",
+        "4"
+      ],
+      [
+        "50. pragunbhutani",
+        "242",
+        "93",
+        "36",
+        "3"
+      ],
+      [
+        "51. tpilewicz",
+        "241",
+        "68",
+        "53",
+        "3"
+      ],
+      [
+        "52. pbechu",
+        "241",
+        "14",
+        "87",
+        "4"
+      ],
+      [
+        "53. vjrabanelly",
+        "222",
+        "40",
+        "39",
+        "4"
+      ],
+      [
+        "54. MarieSergue",
+        "185",
+        "23",
+        "33",
+        "3"
+      ],
+      [
+        "55. tonylemeunier",
+        "138",
+        "3",
+        "30",
+        "3"
+      ],
+      [
+        "56. GourmandGuedj",
+        "130",
+        "21",
+        "52",
+        "1"
+      ],
+      [
+        "57. bunnybilou",
+        "120",
+        "2",
+        "28",
+        "2"
+      ],
+      [
+        "58. louis-HF",
+        "119",
+        "14",
+        "39",
+        "2"
+      ],
+      [
+        "59. Rheaakiki",
+        "98",
+        "13",
+        "25",
+        "2"
+      ],
+      [
+        "60. eyask",
+        "95",
+        "9",
+        "20",
+        "2"
+      ],
+      [
+        "61. edflouriot",
+        "94",
+        "6",
+        "26",
+        "2"
+      ],
+      [
+        "62. doucetm",
+        "46",
+        "1",
+        "5",
+        "1"
+      ]
+    ]
+  },
+  {
+    "type": "table",
+    "title": "Who have the best ratio: reviews / pull requests ?",
+    "headers": [
+      "",
+      "Ratio",
+      "Reviews",
+      "Pull requests"
+    ],
+    "list": [
+      [
+        "1. tildedash",
+        "11.8",
+        "532",
+        "45"
+      ],
+      [
+        "2. allegrem",
+        "9.4",
+        "773",
+        "82"
+      ],
+      [
+        "3. chrsvl",
+        "8.0",
+        "892",
+        "112"
+      ],
+      [
+        "4. flomarin88",
+        "5.5",
+        "172",
+        "31"
+      ],
+      [
+        "5. markomilicevic",
+        "5.2",
+        "1 391",
+        "266"
+      ],
+      [
+        "6. hwd",
+        "5.0",
+        "310",
+        "62"
+      ],
+      [
+        "7. xdurand",
+        "4.0",
+        "403",
+        "102"
+      ],
+      [
+        "8. nbenbourahla",
+        "3.4",
+        "669",
+        "195"
+      ],
+      [
+        "9. litil",
+        "3.0",
+        "703",
+        "231"
+      ],
+      [
+        "10. mbiamont",
+        "3.0",
+        "876",
+        "292"
+      ],
+      [
+        "11. eulbat",
+        "2.9",
+        "624",
+        "218"
+      ],
+      [
+        "12. kimious",
+        "2.4",
+        "206",
+        "87"
+      ],
+      [
+        "13. Fgabz",
+        "2.3",
+        "409",
+        "176"
+      ],
+      [
+        "14. cristian-rivera",
+        "2.3",
+        "393",
+        "171"
+      ],
+      [
+        "15. lilfaf",
+        "2.3",
+        "590",
+        "259"
+      ],
+      [
+        "16. mvpaudrey",
+        "2.2",
+        "173",
+        "77"
+      ],
+      [
+        "17. ManalTab",
+        "2.2",
+        "98",
+        "45"
+      ],
+      [
+        "18. pwaleczek",
+        "2.2",
+        "492",
+        "226"
+      ],
+      [
+        "19. alizeec",
+        "2.1",
+        "593",
+        "277"
+      ],
+      [
+        "20. hereismass",
+        "1.9",
+        "309",
+        "160"
+      ],
+      [
+        "21. Shinomix",
+        "1.9",
+        "257",
+        "134"
+      ],
+      [
+        "22. martinchenu",
+        "1.9",
+        "268",
+        "140"
+      ],
+      [
+        "23. alessandroliveri",
+        "1.8",
+        "299",
+        "166"
+      ],
+      [
+        "24. bonclay7",
+        "1.7",
+        "356",
+        "207"
+      ],
+      [
+        "25. karol-blaszczyk",
+        "1.7",
+        "165",
+        "98"
+      ],
+      [
+        "26. quentin-sommer",
+        "1.7",
+        "508",
+        "302"
+      ],
+      [
+        "27. vjrabanelly",
+        "1.6",
+        "66",
+        "41"
+      ],
+      [
+        "28. JulienAmoros",
+        "1.6",
+        "339",
+        "211"
+      ],
+      [
+        "29. louis-HF",
+        "1.5",
+        "160",
+        "104"
+      ],
+      [
+        "30. Dammmien",
+        "1.5",
+        "242",
+        "162"
+      ],
+      [
+        "31. joeldarling",
+        "1.5",
+        "332",
+        "226"
+      ],
+      [
+        "32. JoWilfrid",
+        "1.5",
+        "320",
+        "218"
+      ],
+      [
+        "33. avarona",
+        "1.3",
+        "325",
+        "245"
+      ],
+      [
+        "34. JohGirard",
+        "1.2",
+        "183",
+        "149"
+      ],
+      [
+        "35. pragunbhutani",
+        "1.1",
+        "213",
+        "191"
+      ],
+      [
+        "36. pbechu",
+        "1.0",
+        "82",
+        "83"
+      ],
+      [
+        "37. zayneio",
+        "0.9",
+        "118",
+        "129"
+      ],
+      [
+        "38. tanguydherouville",
+        "0.8",
+        "134",
+        "163"
+      ],
+      [
+        "39. ethnt",
+        "0.7",
+        "178",
+        "263"
+      ],
+      [
+        "40. lowki93",
+        "0.7",
+        "168",
+        "249"
+      ],
+      [
+        "41. AlanChauchet",
+        "0.7",
+        "100",
+        "152"
+      ],
+      [
+        "42. MindRave",
+        "0.7",
+        "160",
+        "244"
+      ],
+      [
+        "43. tpilewicz",
+        "0.4",
+        "109",
+        "254"
+      ],
+      [
+        "44. farisj",
+        "0.3",
+        "60",
+        "191"
+      ]
+    ]
+  },
+  {
+    "type": "table",
+    "title": "Who are the most exacting developers in their reviews ?",
+    "headers": [
+      "",
+      "Ratio",
+      "Review commented",
+      "Changes requested",
+      "Review approved"
+    ],
+    "list": [
+      [
+        "1. tildedash",
+        "2.7",
+        "384",
+        "3",
+        "145"
+      ],
+      [
+        "2. ManalTab",
+        "1.7",
+        "55",
+        "7",
+        "36"
+      ],
+      [
+        "3. cdemonchy-pro",
+        "1.6",
+        "21",
+        "1",
+        "14"
+      ],
+      [
+        "4. markomilicevic",
+        "1.5",
+        "825",
+        "18",
+        "548"
+      ],
+      [
+        "5. kimious",
+        "1.3",
+        "114",
+        "2",
+        "90"
+      ],
+      [
+        "6. chrsvl",
+        "1.2",
+        "477",
+        "4",
+        "411"
+      ],
+      [
+        "7. lowki93",
+        "1.1",
+        "29",
+        "60",
+        "79"
+      ],
+      [
+        "8. aherve",
+        "1.0",
+        "8",
+        "5",
+        "13"
+      ],
+      [
+        "9. dvxam",
+        "1.0",
+        "1",
+        "0",
+        "1"
+      ],
+      [
+        "10. eulbat",
+        "0.8",
+        "272",
+        "13",
+        "339"
+      ],
+      [
+        "11. allegrem",
+        "0.8",
+        "322",
+        "19",
+        "432"
+      ],
+      [
+        "12. tpilewicz",
+        "0.7",
+        "33",
+        "13",
+        "63"
+      ],
+      [
+        "13. bonclay7",
+        "0.7",
+        "120",
+        "27",
+        "209"
+      ],
+      [
+        "14. flomarin88",
+        "0.6",
+        "52",
+        "14",
+        "106"
+      ],
+      [
+        "15. quentin-sommer",
+        "0.6",
+        "191",
+        "0",
+        "317"
+      ],
+      [
+        "16. farisj",
+        "0.6",
+        "20",
+        "2",
+        "38"
+      ],
+      [
+        "17. AlanChauchet",
+        "0.6",
+        "35",
+        "1",
+        "64"
+      ],
+      [
+        "18. mvpaudrey",
+        "0.6",
+        "11",
+        "51",
+        "111"
+      ],
+      [
+        "19. joeldarling",
+        "0.5",
+        "115",
+        "0",
+        "217"
+      ],
+      [
+        "20. JoWilfrid",
+        "0.5",
+        "102",
+        "1",
+        "217"
+      ],
+      [
+        "21. hwd",
+        "0.5",
+        "90",
+        "9",
+        "211"
+      ],
+      [
+        "22. JulienAmoros",
+        "0.5",
+        "104",
+        "4",
+        "231"
+      ],
+      [
+        "23. vjrabanelly",
+        "0.5",
+        "16",
+        "5",
+        "45"
+      ],
+      [
+        "24. pragunbhutani",
+        "0.5",
+        "48",
+        "19",
+        "146"
+      ],
+      [
+        "25. karol-blaszczyk",
+        "0.4",
+        "35",
+        "16",
+        "114"
+      ],
+      [
+        "26. litil",
+        "0.4",
+        "175",
+        "42",
+        "486"
+      ],
+      [
+        "27. GourmandGuedj",
+        "0.4",
+        "3",
+        "1",
+        "9"
+      ],
+      [
+        "28. pwaleczek",
+        "0.4",
+        "138",
+        "2",
+        "352"
+      ],
+      [
+        "29. MindRave",
+        "0.4",
+        "39",
+        "6",
+        "115"
+      ],
+      [
+        "30. Shinomix",
+        "0.4",
+        "65",
+        "6",
+        "186"
+      ],
+      [
+        "31. lilfaf",
+        "0.4",
+        "153",
+        "7",
+        "430"
+      ],
+      [
+        "32. cristian-rivera",
+        "0.4",
+        "89",
+        "16",
+        "288"
+      ],
+      [
+        "33. hereismass",
+        "0.3",
+        "75",
+        "5",
+        "229"
+      ],
+      [
+        "34. mbiamont",
+        "0.3",
+        "220",
+        "6",
+        "650"
+      ],
+      [
+        "35. xdurand",
+        "0.3",
+        "44",
+        "49",
+        "310"
+      ],
+      [
+        "36. Dammmien",
+        "0.2",
+        "35",
+        "11",
+        "196"
+      ],
+      [
+        "37. martinchenu",
+        "0.2",
+        "47",
+        "1",
+        "220"
+      ],
+      [
+        "38. tanguydherouville",
+        "0.2",
+        "17",
+        "6",
+        "111"
+      ],
+      [
+        "39. pbechu",
+        "0.2",
+        "14",
+        "0",
+        "68"
+      ],
+      [
+        "40. alessandroliveri",
+        "0.2",
+        "50",
+        "0",
+        "249"
+      ],
+      [
+        "41. louis-HF",
+        "0.2",
+        "23",
+        "3",
+        "134"
+      ],
+      [
+        "42. pandarouxbsd",
+        "0.2",
+        "5",
+        "0",
+        "26"
+      ],
+      [
+        "43. avarona",
+        "0.2",
+        "43",
+        "6",
+        "276"
+      ],
+      [
+        "44. alizeec",
+        "0.2",
+        "82",
+        "6",
+        "505"
+      ],
+      [
+        "45. ethnt",
+        "0.2",
+        "18",
+        "8",
+        "152"
+      ],
+      [
+        "46. nbenbourahla",
+        "0.1",
+        "73",
+        "6",
+        "590"
+      ],
+      [
+        "47. Rheaakiki",
+        "0.1",
+        "4",
+        "0",
+        "34"
+      ],
+      [
+        "48. YanisAircall",
+        "0.1",
+        "4",
+        "0",
+        "36"
+      ],
+      [
+        "49. JohGirard",
+        "0.1",
+        "14",
+        "3",
+        "166"
+      ],
+      [
+        "50. Fgabz",
+        "0.1",
+        "32",
+        "5",
+        "372"
+      ],
+      [
+        "51. zayneio",
+        "0.1",
+        "7",
+        "1",
+        "110"
+      ],
+      [
+        "52. MalekMansour",
+        0,
+        "0",
+        "0",
+        "10"
+      ],
+      [
+        "53. Galalafm",
+        0,
+        "0",
+        "0",
+        "1"
+      ],
+      [
+        "54. Ghivalla",
+        0,
+        "0",
+        "0",
+        "0"
+      ],
+      [
+        "55. garfieldduck",
+        0,
+        "0",
+        "0",
+        "1"
+      ],
+      [
+        "56. ludovicVivet",
+        0,
+        "0",
+        "0",
+        "0"
+      ],
+      [
+        "57. MarieSergue",
+        0,
+        "0",
+        "0",
+        "36"
+      ],
+      [
+        "58. tonylemeunier",
+        0,
+        "0",
+        "0",
+        "20"
+      ],
+      [
+        "59. bunnybilou",
+        0,
+        "0",
+        "0",
+        "1"
+      ],
+      [
+        "60. eyask",
+        0,
+        "0",
+        "0",
+        "0"
+      ],
+      [
+        "61. edflouriot",
+        0,
+        "0",
+        "0",
+        "22"
+      ],
+      [
+        "62. doucetm",
+        0,
+        "0",
+        "0",
+        "0"
+      ]
+    ]
+  },
+  {
+    "type": "table",
+    "title": "Who are the developers whose pull requests are accepted with the less of discussion ?",
+    "headers": [
+      "",
+      "Ratio",
+      "PR approved",
+      "PR commented",
+      "Changes requested"
+    ],
+    "list": [
+      [
+        "1. tpilewicz",
+        "5.0",
+        "121",
+        "33",
+        "13"
+      ],
+      [
+        "2. allegrem",
+        "4.8",
+        "129",
+        "322",
+        "19"
+      ],
+      [
+        "3. xdurand",
+        "4.4",
+        "57",
+        "44",
+        "49"
+      ],
+      [
+        "4. mbiamont",
+        "3.4",
+        "521",
+        "220",
+        "6"
+      ],
+      [
+        "5. tonylemeunier",
+        "3.0",
+        "27",
+        "0",
+        "0"
+      ],
+      [
+        "6. louis-HF",
+        "2.8",
+        "106",
+        "23",
+        "3"
+      ],
+      [
+        "7. ethnt",
+        "2.6",
+        "278",
+        "18",
+        "8"
+      ],
+      [
+        "8. pbechu",
+        "2.5",
+        "56",
+        "14",
+        "0"
+      ],
+      [
+        "9. alizeec",
+        "2.4",
+        "577",
+        "82",
+        "6"
+      ],
+      [
+        "10. Shinomix",
+        "2.3",
+        "138",
+        "65",
+        "6"
+      ],
+      [
+        "11. vjrabanelly",
+        "2.3",
+        "61",
+        "16",
+        "5"
+      ],
+      [
+        "12. hwd",
+        "2.1",
+        "108",
+        "90",
+        "9"
+      ],
+      [
+        "13. flomarin88",
+        "2.0",
+        "51",
+        "52",
+        "14"
+      ],
+      [
+        "14. joeldarling",
+        "2.0",
+        "234",
+        "115",
+        "0"
+      ],
+      [
+        "15. Galalafm",
+        "2.0",
+        "2",
+        "0",
+        "0"
+      ],
+      [
+        "16. bonclay7",
+        "1.9",
+        "206",
+        "120",
+        "27"
+      ],
+      [
+        "17. Rheaakiki",
+        "1.8",
+        "51",
+        "4",
+        "0"
+      ],
+      [
+        "18. Dammmien",
+        "1.7",
+        "209",
+        "35",
+        "11"
+      ],
+      [
+        "19. nbenbourahla",
+        "1.7",
+        "406",
+        "73",
+        "6"
+      ],
+      [
+        "20. farisj",
+        "1.7",
+        "202",
+        "20",
+        "2"
+      ],
+      [
+        "21. tanguydherouville",
+        "1.7",
+        "98",
+        "17",
+        "6"
+      ],
+      [
+        "22. MarieSergue",
+        "1.6",
+        "53",
+        "0",
+        "0"
+      ],
+      [
+        "23. alessandroliveri",
+        "1.5",
+        "186",
+        "50",
+        "0"
+      ],
+      [
+        "24. JohGirard",
+        "1.5",
+        "176",
+        "14",
+        "3"
+      ],
+      [
+        "25. zayneio",
+        "1.3",
+        "149",
+        "7",
+        "1"
+      ],
+      [
+        "26. doucetm",
+        "1.3",
+        "4",
+        "0",
+        "0"
+      ],
+      [
+        "27. Fgabz",
+        "1.3",
+        "320",
+        "32",
+        "5"
+      ],
+      [
+        "28. hereismass",
+        "1.2",
+        "192",
+        "75",
+        "5"
+      ],
+      [
+        "29. edflouriot",
+        "1.2",
+        "18",
+        "0",
+        "0"
+      ],
+      [
+        "30. pandarouxbsd",
+        "1.2",
+        "37",
+        "5",
+        "0"
+      ],
+      [
+        "31. eulbat",
+        "1.1",
+        "337",
+        "272",
+        "13"
+      ],
+      [
+        "32. pragunbhutani",
+        "1.0",
+        "62",
+        "48",
+        "19"
+      ],
+      [
+        "33. lowki93",
+        "1.0",
+        "171",
+        "29",
+        "60"
+      ],
+      [
+        "34. lilfaf",
+        "0.9",
+        "444",
+        "153",
+        "7"
+      ],
+      [
+        "35. litil",
+        "0.9",
+        "302",
+        "175",
+        "42"
+      ],
+      [
+        "36. pwaleczek",
+        "0.9",
+        "359",
+        "138",
+        "2"
+      ],
+      [
+        "37. cristian-rivera",
+        "0.9",
+        "190",
+        "89",
+        "16"
+      ],
+      [
+        "38. karol-blaszczyk",
+        "0.8",
+        "115",
+        "35",
+        "16"
+      ],
+      [
+        "39. markomilicevic",
+        "0.8",
+        "347",
+        "825",
+        "18"
+      ],
+      [
+        "40. chrsvl",
+        "0.8",
+        "210",
+        "477",
+        "4"
+      ],
+      [
+        "41. MindRave",
+        "0.8",
+        "374",
+        "39",
+        "6"
+      ],
+      [
+        "42. cdemonchy-pro",
+        "0.8",
+        "7",
+        "21",
+        "1"
+      ],
+      [
+        "43. garfieldduck",
+        "0.8",
+        "7",
+        "0",
+        "0"
+      ],
+      [
+        "44. kimious",
+        "0.8",
+        "162",
+        "114",
+        "2"
+      ],
+      [
+        "45. avarona",
+        "0.7",
+        "286",
+        "43",
+        "6"
+      ],
+      [
+        "46. AlanChauchet",
+        "0.7",
+        "187",
+        "35",
+        "1"
+      ],
+      [
+        "47. YanisAircall",
+        "0.7",
+        "6",
+        "4",
+        "0"
+      ],
+      [
+        "48. eyask",
+        "0.7",
+        "6",
+        "0",
+        "0"
+      ],
+      [
+        "49. quentin-sommer",
+        "0.6",
+        "499",
+        "191",
+        "0"
+      ],
+      [
+        "50. dvxam",
+        "0.6",
+        "7",
+        "1",
+        "0"
+      ],
+      [
+        "51. JulienAmoros",
+        "0.5",
+        "290",
+        "104",
+        "4"
+      ],
+      [
+        "52. bunnybilou",
+        "0.5",
+        "4",
+        "0",
+        "0"
+      ],
+      [
+        "53. aherve",
+        "0.5",
+        "11",
+        "8",
+        "5"
+      ],
+      [
+        "54. JoWilfrid",
+        "0.5",
+        "287",
+        "102",
+        "1"
+      ],
+      [
+        "55. martinchenu",
+        "0.5",
+        "271",
+        "47",
+        "1"
+      ],
+      [
+        "56. tildedash",
+        "0.4",
+        "71",
+        "384",
+        "3"
+      ],
+      [
+        "57. ManalTab",
+        "0.4",
+        "85",
+        "55",
+        "7"
+      ],
+      [
+        "58. mvpaudrey",
+        "0.4",
+        "86",
+        "11",
+        "51"
+      ],
+      [
+        "59. GourmandGuedj",
+        0,
+        "6",
+        "3",
+        "1"
+      ],
+      [
+        "60. MalekMansour",
+        0,
+        "2",
+        "0",
+        "0"
+      ],
+      [
+        "61. Ghivalla",
+        0,
+        "1",
+        "0",
+        "0"
+      ],
+      [
+        "62. ludovicVivet",
+        0,
+        "9",
+        "0",
+        "0"
+      ]
+    ]
+  },
+  {
+    "type": "table",
+    "title": "Who removed more code than he added ?",
+    "headers": [
+      "",
+      "Difference",
+      "Deletions",
+      "Additions"
+    ],
+    "list": [
+      [
+        "1. Galalafm",
+        "-136 888",
+        "182 665",
+        "45 777"
+      ],
+      [
+        "2. cristian-rivera",
+        "-100 583",
+        "141 793",
+        "41 210"
+      ],
+      [
+        "3. pragunbhutani",
+        "-10 848",
+        "17 815",
+        "6 967"
+      ],
+      [
+        "4. tpilewicz",
+        "-3 853",
+        "17 225",
+        "13 372"
+      ],
+      [
+        "5. nbenbourahla",
+        "-1 491",
+        "29 048",
+        "27 557"
+      ],
+      [
+        "6. xdurand",
+        "-936",
+        "8 267",
+        "7 331"
+      ],
+      [
+        "7. allegrem",
+        "663",
+        "3 751",
+        "4 414"
+      ],
+      [
+        "8. flomarin88",
+        "1 215",
+        "1 526",
+        "2 741"
+      ],
+      [
+        "9. MalekMansour",
+        "1 611",
+        "6 158",
+        "7 769"
+      ],
+      [
+        "10. karol-blaszczyk",
+        "1 927",
+        "6 282",
+        "8 209"
+      ],
+      [
+        "11. pandarouxbsd",
+        "2 093",
+        "356",
+        "2 449"
+      ],
+      [
+        "12. tonylemeunier",
+        "2 178",
+        "274",
+        "2 452"
+      ],
+      [
+        "13. YanisAircall",
+        "2 367",
+        "3 262",
+        "5 629"
+      ],
+      [
+        "14. hwd",
+        "2 531",
+        "3 493",
+        "6 024"
+      ],
+      [
+        "15. louis-HF",
+        "2 569",
+        "1 459",
+        "4 028"
+      ],
+      [
+        "16. farisj",
+        "2 954",
+        "6 516",
+        "9 470"
+      ],
+      [
+        "17. ManalTab",
+        "3 031",
+        "2 242",
+        "5 273"
+      ],
+      [
+        "18. Dammmien",
+        "3 925",
+        "30 445",
+        "34 370"
+      ],
+      [
+        "19. tildedash",
+        "4 733",
+        "2 122",
+        "6 855"
+      ],
+      [
+        "20. JohGirard",
+        "4 842",
+        "7 389",
+        "12 231"
+      ],
+      [
+        "21. Shinomix",
+        "5 165",
+        "8 114",
+        "13 279"
+      ],
+      [
+        "22. alessandroliveri",
+        "5 980",
+        "19 027",
+        "25 007"
+      ],
+      [
+        "23. pbechu",
+        "6 020",
+        "1 160",
+        "7 180"
+      ],
+      [
+        "24. aherve",
+        "7 157",
+        "4 265",
+        "11 422"
+      ],
+      [
+        "25. kimious",
+        "7 740",
+        "5 057",
+        "12 797"
+      ],
+      [
+        "26. martinchenu",
+        "8 738",
+        "6 041",
+        "14 779"
+      ],
+      [
+        "27. Fgabz",
+        "9 070",
+        "33 596",
+        "42 666"
+      ],
+      [
+        "28. bonclay7",
+        "9 223",
+        "9 747",
+        "18 970"
+      ],
+      [
+        "29. chrsvl",
+        "9 900",
+        "6 249",
+        "16 149"
+      ],
+      [
+        "30. lilfaf",
+        "10 357",
+        "10 972",
+        "21 329"
+      ],
+      [
+        "31. avarona",
+        "11 518",
+        "24 190",
+        "35 708"
+      ],
+      [
+        "32. ethnt",
+        "12 901",
+        "24 769",
+        "37 670"
+      ],
+      [
+        "33. litil",
+        "12 922",
+        "12 275",
+        "25 197"
+      ],
+      [
+        "34. zayneio",
+        "13 493",
+        "5 312",
+        "18 805"
+      ],
+      [
+        "35. eulbat",
+        "15 070",
+        "14 210",
+        "29 280"
+      ],
+      [
+        "36. AlanChauchet",
+        "15 535",
+        "21 409",
+        "36 944"
+      ],
+      [
+        "37. quentin-sommer",
+        "15 535",
+        "8 832",
+        "24 367"
+      ],
+      [
+        "38. JulienAmoros",
+        "16 472",
+        "9 218",
+        "25 690"
+      ],
+      [
+        "39. MindRave",
+        "17 448",
+        "18 673",
+        "36 121"
+      ],
+      [
+        "40. JoWilfrid",
+        "19 389",
+        "11 223",
+        "30 612"
+      ],
+      [
+        "41. markomilicevic",
+        "22 056",
+        "18 585",
+        "40 641"
+      ],
+      [
+        "42. pwaleczek",
+        "25 003",
+        "21 169",
+        "46 172"
+      ],
+      [
+        "43. alizeec",
+        "31 813",
+        "22 283",
+        "54 096"
+      ],
+      [
+        "44. hereismass",
+        "34 363",
+        "12 092",
+        "46 455"
+      ],
+      [
+        "45. joeldarling",
+        "38 642",
+        "9 252",
+        "47 894"
+      ],
+      [
+        "46. mbiamont",
+        "61 592",
+        "36 177",
+        "97 769"
+      ],
+      [
+        "47. lowki93",
+        "69 887",
+        "78 567",
+        "148 454"
+      ],
+      [
+        "48. tanguydherouville",
+        "84 813",
+        "10 552",
+        "95 365"
+      ],
+      [
+        "49. mvpaudrey",
+        "93 981",
+        "34 075",
+        "128 056"
+      ]
+    ]
+  },
+  {
+    "type": "chart",
+    "title": "Who contributed to the most of repositories ?",
+    "data": [
+      {
+        "label": "bonclay7",
+        "value": 36
+      },
+      {
+        "label": "JohGirard",
+        "value": 21
+      },
+      {
+        "label": "Shinomix",
+        "value": 20
+      },
+      {
+        "label": "hereismass",
+        "value": 20
+      },
+      {
+        "label": "eulbat",
+        "value": 19
+      },
+      {
+        "label": "cristian-rivera",
+        "value": 18
+      },
+      {
+        "label": "JulienAmoros",
+        "value": 17
+      },
+      {
+        "label": "farisj",
+        "value": 16
+      },
+      {
+        "label": "lilfaf",
+        "value": 15
+      },
+      {
+        "label": "JoWilfrid",
+        "value": 15
+      },
+      {
+        "label": "quentin-sommer",
+        "value": 14
+      },
+      {
+        "label": "allegrem",
+        "value": 13
+      },
+      {
+        "label": "hwd",
+        "value": 12
+      },
+      {
+        "label": "markomilicevic",
+        "value": 11
+      },
+      {
+        "label": "chrsvl",
+        "value": 11
+      },
+      {
+        "label": "kimious",
+        "value": 11
+      },
+      {
+        "label": "tildedash",
+        "value": 11
+      },
+      {
+        "label": "ethnt",
+        "value": 10
+      },
+      {
+        "label": "pandarouxbsd",
+        "value": 10
+      },
+      {
+        "label": "karol-blaszczyk",
+        "value": 10
+      },
+      {
+        "label": "AlanChauchet",
+        "value": 10
+      },
+      {
+        "label": "pbechu",
+        "value": 9
+      },
+      {
+        "label": "martinchenu",
+        "value": 9
+      },
+      {
+        "label": "ManalTab",
+        "value": 9
+      },
+      {
+        "label": "xdurand",
+        "value": 7
+      },
+      {
+        "label": "flomarin88",
+        "value": 7
+      },
+      {
+        "label": "Dammmien",
+        "value": 7
+      },
+      {
+        "label": "alessandroliveri",
+        "value": 7
+      },
+      {
+        "label": "zayneio",
+        "value": 7
+      },
+      {
+        "label": "litil",
+        "value": 7
+      },
+      {
+        "label": "tpilewicz",
+        "value": 5
+      },
+      {
+        "label": "vjrabanelly",
+        "value": 5
+      },
+      {
+        "label": "lowki93",
+        "value": 5
+      },
+      {
+        "label": "aherve",
+        "value": 5
+      },
+      {
+        "label": "pragunbhutani",
+        "value": 4
+      },
+      {
+        "label": "pwaleczek",
+        "value": 4
+      },
+      {
+        "label": "MindRave",
+        "value": 4
+      },
+      {
+        "label": "avarona",
+        "value": 4
+      },
+      {
+        "label": "dvxam",
+        "value": 4
+      },
+      {
+        "label": "mbiamont",
+        "value": 3
+      },
+      {
+        "label": "alizeec",
+        "value": 3
+      },
+      {
+        "label": "nbenbourahla",
+        "value": 3
+      },
+      {
+        "label": "tanguydherouville",
+        "value": 3
+      },
+      {
+        "label": "doucetm",
+        "value": 3
+      },
+      {
+        "label": "bunnybilou",
+        "value": 3
+      },
+      {
+        "label": "louis-HF",
+        "value": 2
+      },
+      {
+        "label": "joeldarling",
+        "value": 2
+      },
+      {
+        "label": "Galalafm",
+        "value": 2
+      },
+      {
+        "label": "Fgabz",
+        "value": 2
+      },
+      {
+        "label": "cdemonchy-pro",
+        "value": 2
+      },
+      {
+        "label": "YanisAircall",
+        "value": 2
+      },
+      {
+        "label": "eyask",
+        "value": 2
+      },
+      {
+        "label": "mvpaudrey",
+        "value": 2
+      },
+      {
+        "label": "GourmandGuedj",
+        "value": 2
+      },
+      {
+        "label": "ludovicVivet",
+        "value": 2
+      },
+      {
+        "label": "tonylemeunier",
+        "value": 1
+      },
+      {
+        "label": "Rheaakiki",
+        "value": 1
+      },
+      {
+        "label": "MarieSergue",
+        "value": 1
+      },
+      {
+        "label": "edflouriot",
+        "value": 1
+      },
+      {
+        "label": "garfieldduck",
+        "value": 1
+      },
+      {
+        "label": "MalekMansour",
+        "value": 1
+      },
+      {
+        "label": "Ghivalla",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "type": "table",
+    "title": "Which are the most active repositories ?",
+    "headers": [
+      "",
+      "Points",
+      "Commits",
+      "Additions",
+      "Deletions",
+      "PR",
+      "Reviews"
+    ],
+    "list": [
+      [
+        "1. aircall-bridge",
+        "885 522",
+        "512",
+        "254 595",
+        "621 307",
+        "108",
+        "234"
+      ],
+      [
+        "2. phone",
+        "422 893",
+        "3 808",
+        "204 393",
+        "108 510",
+        "1 465",
+        "4 261"
+      ],
+      [
+        "3. aircall-android-v2",
+        "414 530",
+        "4 400",
+        "221 606",
+        "98 604",
+        "1 051",
+        "2 930"
+      ],
+      [
+        "4. aircall-web",
+        "391 769",
+        "5 053",
+        "108 546",
+        "182 653",
+        "993",
+        "3 018"
+      ],
+      [
+        "5. aircall-dashboard",
+        "343 883",
+        "3 840",
+        "173 572",
+        "87 561",
+        "1 079",
+        "2 277"
+      ],
+      [
+        "6. aircall-ios-v2",
+        "244 431",
+        "1 455",
+        "132 783",
+        "84 258",
+        "311",
+        "662"
+      ],
+      [
+        "7. aircall-data",
+        "241 315",
+        "2 416",
+        "133 144",
+        "54 031",
+        "1 062",
+        "874"
+      ],
+      [
+        "8. aircall-ios-design-system",
+        "142 081",
+        "61",
+        "109 174",
+        "31 957",
+        "10",
+        "14"
+      ],
+      [
+        "9. graham",
+        "83 647",
+        "1 241",
+        "41 023",
+        "24 504",
+        "184",
+        "203"
+      ],
+      [
+        "10. tree",
+        "69 416",
+        "1 656",
+        "25 416",
+        "9 330",
+        "269",
+        "1 273"
+      ],
+      [
+        "11. aircall-ios-voice",
+        "60 312",
+        "55",
+        "52 943",
+        "6 259",
+        "19",
+        "18"
+      ],
+      [
+        "12. aircall-phone",
+        "58 554",
+        "753",
+        "21 769",
+        "20 895",
+        "218",
+        "400"
+      ],
+      [
+        "13. octopus",
+        "45 784",
+        "990",
+        "18 748",
+        "6 966",
+        "158",
+        "701"
+      ],
+      [
+        "14. pulse",
+        "36 913",
+        "713",
+        "12 542",
+        "7 921",
+        "178",
+        "576"
+      ],
+      [
+        "15. hub",
+        "36 858",
+        "750",
+        "15 227",
+        "6 511",
+        "140",
+        "482"
+      ],
+      [
+        "16. maestro",
+        "33 517",
+        "749",
+        "13 568",
+        "4 189",
+        "143",
+        "541"
+      ],
+      [
+        "17. aircall-livecall",
+        "27 564",
+        "645",
+        "8 584",
+        "5 320",
+        "141",
+        "439"
+      ],
+      [
+        "18. aircall-everywhere",
+        "26 653",
+        "5",
+        "14 724",
+        "11 769",
+        "3",
+        "5"
+      ],
+      [
+        "19. aircall-electron",
+        "26 119",
+        "285",
+        "12 285",
+        "10 274",
+        "23",
+        "25"
+      ],
+      [
+        "20. aircall-android",
+        "23 689",
+        "25",
+        "515",
+        "22 644",
+        "9",
+        "10"
+      ],
+      [
+        "21. merlin",
+        "22 951",
+        "574",
+        "9 728",
+        "2 233",
+        "77",
+        "371"
+      ],
+      [
+        "22. aircall-strongbox",
+        "21 869",
+        "298",
+        "14 393",
+        "2 436",
+        "89",
+        "28"
+      ],
+      [
+        "23. data-platform",
+        "21 282",
+        "130",
+        "13 030",
+        "4 962",
+        "53",
+        "93"
+      ],
+      [
+        "24. aircall-milks-warehouse",
+        "18 314",
+        "23",
+        "17 986",
+        "58",
+        "2",
+        "0"
+      ],
+      [
+        "25. link",
+        "16 795",
+        "156",
+        "7 365",
+        "6 090",
+        "48",
+        "82"
+      ],
+      [
+        "26. sbc",
+        "16 764",
+        "298",
+        "8 836",
+        "1 758",
+        "128",
+        "63"
+      ],
+      [
+        "27. contacts-extracts-directory",
+        "15 405",
+        "263",
+        "7 653",
+        "1 412",
+        "48",
+        "275"
+      ],
+      [
+        "28. cti",
+        "14 114",
+        "59",
+        "12 516",
+        "348",
+        "15",
+        "36"
+      ],
+      [
+        "29. aircall-hub-poc",
+        "13 855",
+        "4",
+        "8 620",
+        "5 075",
+        "1",
+        "10"
+      ],
+      [
+        "30. contacts-search",
+        "13 773",
+        "269",
+        "6 687",
+        "1 336",
+        "47",
+        "212"
+      ],
+      [
+        "31. secrets",
+        "13 312",
+        "158",
+        "5 452",
+        "3 900",
+        "67",
+        "104"
+      ],
+      [
+        "32. public-api-poc",
+        "10 969",
+        "69",
+        "7 087",
+        "2 122",
+        "30",
+        "47"
+      ],
+      [
+        "33. aircall-homepage",
+        "10 928",
+        "132",
+        "5 648",
+        "2 250",
+        "85",
+        "1"
+      ],
+      [
+        "34. aircall-service-core",
+        "9 797",
+        "245",
+        "3 327",
+        "1 190",
+        "99",
+        "85"
+      ],
+      [
+        "35. aircall-infra",
+        "9 665",
+        "195",
+        "3 267",
+        "2 898",
+        "43",
+        "69"
+      ],
+      [
+        "36. aircall-service-client",
+        "9 453",
+        "152",
+        "4 744",
+        "1 179",
+        "44",
+        "113"
+      ],
+      [
+        "37. ecs-infra",
+        "9 341",
+        "193",
+        "3 945",
+        "1 956",
+        "40",
+        "71"
+      ],
+      [
+        "38. service-messaging",
+        "8 912",
+        "183",
+        "3 913",
+        "939",
+        "50",
+        "123"
+      ],
+      [
+        "39. aircall-chrome-extension",
+        "8 520",
+        "39",
+        "2 439",
+        "4 821",
+        "23",
+        "41"
+      ],
+      [
+        "40. aircall-crunch",
+        "5 648",
+        "66",
+        "1 932",
+        "2 336",
+        "28",
+        "16"
+      ],
+      [
+        "41. ecs-service",
+        "5 626",
+        "126",
+        "3 050",
+        "196",
+        "31",
+        "50"
+      ],
+      [
+        "42. ci-scripts",
+        "5 323",
+        "101",
+        "1 967",
+        "936",
+        "38",
+        "65"
+      ],
+      [
+        "43. aircall-maersk",
+        "4 891",
+        "92",
+        "2 570",
+        "341",
+        "36",
+        "34"
+      ],
+      [
+        "44. livecall-infra",
+        "4 502",
+        "36",
+        "2 196",
+        "1 686",
+        "8",
+        "10"
+      ],
+      [
+        "45. public-api",
+        "4 272",
+        "29",
+        "3 031",
+        "601",
+        "5",
+        "25"
+      ],
+      [
+        "46. graham-infra",
+        "4 212",
+        "36",
+        "1 732",
+        "1 850",
+        "8",
+        "11"
+      ],
+      [
+        "47. insight-card-shopify",
+        "4 159",
+        "62",
+        "1 789",
+        "880",
+        "20",
+        "47"
+      ],
+      [
+        "48. aircall-guides",
+        "3 473",
+        "72",
+        "1 596",
+        "67",
+        "25",
+        "59"
+      ],
+      [
+        "49. aircall-developer",
+        "3 110",
+        "48",
+        "1 204",
+        "516",
+        "26",
+        "39"
+      ],
+      [
+        "50. cleankit",
+        "2 755",
+        "40",
+        "1 405",
+        "110",
+        "16",
+        "52"
+      ],
+      [
+        "51. notifier",
+        "2 723",
+        "46",
+        "1 230",
+        "423",
+        "26",
+        "9"
+      ],
+      [
+        "52. circleci-orbs",
+        "2 654",
+        "70",
+        "1 463",
+        "151",
+        "11",
+        "12"
+      ],
+      [
+        "53. e2e-tests",
+        "2 416",
+        "56",
+        "1 317",
+        "149",
+        "12",
+        "15"
+      ],
+      [
+        "54. front-end-core",
+        "2 127",
+        "14",
+        "1 193",
+        "464",
+        "7",
+        "19"
+      ],
+      [
+        "55. railsrunner",
+        "1 608",
+        "38",
+        "792",
+        "6",
+        "11",
+        "21"
+      ],
+      [
+        "56. zendesk",
+        "1 504",
+        "18",
+        "1 102",
+        "72",
+        "5",
+        "5"
+      ],
+      [
+        "57. aircall-ios",
+        "1 368",
+        "25",
+        "551",
+        "407",
+        "8",
+        "0"
+      ],
+      [
+        "58. routing-poc",
+        "1 073",
+        "13",
+        "882",
+        "41",
+        "1",
+        "0"
+      ],
+      [
+        "59. phone-infra",
+        "1 019",
+        "24",
+        "233",
+        "126",
+        "12",
+        "18"
+      ],
+      [
+        "60. aircall-availability",
+        "974",
+        "22",
+        "201",
+        "233",
+        "13",
+        "6"
+      ],
+      [
+        "61. father",
+        "923",
+        "12",
+        "430",
+        "253",
+        "6",
+        "0"
+      ],
+      [
+        "62. pulse-infra",
+        "738",
+        "26",
+        "82",
+        "36",
+        "11",
+        "14"
+      ],
+      [
+        "63. aircall-s3-proxy",
+        "577",
+        "3",
+        "431",
+        "26",
+        "3",
+        "3"
+      ],
+      [
+        "64. go-pkgs",
+        "540",
+        "8",
+        "262",
+        "68",
+        "6",
+        "1"
+      ],
+      [
+        "65. aircall-logs-poc",
+        "526",
+        "4",
+        "252",
+        "194",
+        "2",
+        "0"
+      ],
+      [
+        "66. aircall-zendesk",
+        "443",
+        "7",
+        "152",
+        "131",
+        "3",
+        "3"
+      ],
+      [
+        "67. aircall-assets",
+        "428",
+        "2",
+        "49",
+        "329",
+        "1",
+        "1"
+      ],
+      [
+        "68. aircall-applause",
+        "400",
+        "12",
+        "28",
+        "12",
+        "11",
+        "2"
+      ],
+      [
+        "69. aircall-jwt",
+        "269",
+        "5",
+        "78",
+        "91",
+        "2",
+        "1"
+      ],
+      [
+        "70. aircall-pullrequest-checker",
+        "240",
+        "6",
+        "34",
+        "6",
+        "4",
+        "6"
+      ],
+      [
+        "71. mongo-infra",
+        "170",
+        "2",
+        "110",
+        "0",
+        "1",
+        "2"
+      ],
+      [
+        "72. aircall-milks-monitoring",
+        "144",
+        "3",
+        "49",
+        "45",
+        "1",
+        "0"
+      ],
+      [
+        "73. aircall-css",
+        "142",
+        "2",
+        "30",
+        "72",
+        "1",
+        "0"
+      ],
+      [
+        "74. aircall-now",
+        "137",
+        "3",
+        "26",
+        "41",
+        "2",
+        "0"
+      ],
+      [
+        "75. aircall-fisheye",
+        "122",
+        "3",
+        "6",
+        "6",
+        "3",
+        "2"
+      ],
+      [
+        "76. flagbot",
+        "110",
+        "3",
+        "17",
+        "3",
+        "2",
+        "2"
+      ],
+      [
+        "77. aircall-electron-server",
+        "110",
+        "3",
+        "27",
+        "13",
+        "2",
+        "0"
+      ],
+      [
+        "78. working_hours",
+        "94",
+        "2",
+        "14",
+        "30",
+        "1",
+        "1"
+      ],
+      [
+        "79. aircall-smashing",
+        "82",
+        "3",
+        "6",
+        "6",
+        "2",
+        "0"
+      ],
+      [
+        "80. aircall-rds-fbi",
+        "74",
+        "2",
+        "3",
+        "1",
+        "2",
+        "1"
+      ],
+      [
+        "81. aircall-milks-summary",
+        "58",
+        "1",
+        "4",
+        "4",
+        "1",
+        "2"
+      ],
+      [
+        "82. aircall-radish-extract",
+        "50",
+        "1",
+        "6",
+        "4",
+        "1",
+        "1"
+      ],
+      [
+        "83. aircall-bridge-error-reporting",
+        "44",
+        "1",
+        "2",
+        "2",
+        "1",
+        "1"
+      ],
+      [
+        "84. aircall-bridge-retry-log",
+        "34",
+        "1",
+        "2",
+        "2",
+        "1",
+        "0"
+      ],
+      [
+        "85. aircall-milks-integrations-den",
+        "34",
+        "1",
+        "2",
+        "2",
+        "1",
+        "0"
+      ]
+    ]
+  },
+  {
+    "type": "chart",
+    "title": "Which are the repositories with the most of contributors ?",
+    "data": [
+      {
+        "label": "aircall-web",
+        "value": 40
+      },
+      {
+        "label": "aircall-dashboard",
+        "value": 32
+      },
+      {
+        "label": "aircall-phone",
+        "value": 26
+      },
+      {
+        "label": "phone",
+        "value": 19
+      },
+      {
+        "label": "pulse",
+        "value": 19
+      },
+      {
+        "label": "aircall-livecall",
+        "value": 18
+      },
+      {
+        "label": "aircall-guides",
+        "value": 16
+      },
+      {
+        "label": "secrets",
+        "value": 15
+      },
+      {
+        "label": "aircall-service-client",
+        "value": 15
+      },
+      {
+        "label": "aircall-data",
+        "value": 14
+      },
+      {
+        "label": "hub",
+        "value": 14
+      },
+      {
+        "label": "service-messaging",
+        "value": 13
+      },
+      {
+        "label": "aircall-bridge",
+        "value": 12
+      },
+      {
+        "label": "aircall-maersk",
+        "value": 11
+      },
+      {
+        "label": "aircall-developer",
+        "value": 11
+      },
+      {
+        "label": "tree",
+        "value": 10
+      },
+      {
+        "label": "octopus",
+        "value": 10
+      },
+      {
+        "label": "contacts-search",
+        "value": 10
+      },
+      {
+        "label": "maestro",
+        "value": 9
+      },
+      {
+        "label": "aircall-service-core",
+        "value": 9
+      },
+      {
+        "label": "aircall-infra",
+        "value": 9
+      },
+      {
+        "label": "aircall-strongbox",
+        "value": 8
+      },
+      {
+        "label": "contacts-extracts-directory",
+        "value": 8
+      },
+      {
+        "label": "ci-scripts",
+        "value": 8
+      },
+      {
+        "label": "aircall-android-v2",
+        "value": 7
+      },
+      {
+        "label": "aircall-ios-v2",
+        "value": 7
+      },
+      {
+        "label": "graham",
+        "value": 7
+      },
+      {
+        "label": "merlin",
+        "value": 7
+      },
+      {
+        "label": "link",
+        "value": 7
+      },
+      {
+        "label": "cleankit",
+        "value": 7
+      },
+      {
+        "label": "railsrunner",
+        "value": 7
+      },
+      {
+        "label": "ecs-infra",
+        "value": 6
+      },
+      {
+        "label": "aircall-chrome-extension",
+        "value": 5
+      },
+      {
+        "label": "aircall-crunch",
+        "value": 5
+      },
+      {
+        "label": "insight-card-shopify",
+        "value": 5
+      },
+      {
+        "label": "data-platform",
+        "value": 4
+      },
+      {
+        "label": "sbc",
+        "value": 4
+      },
+      {
+        "label": "ecs-service",
+        "value": 4
+      },
+      {
+        "label": "phone-infra",
+        "value": 4
+      },
+      {
+        "label": "aircall-pullrequest-checker",
+        "value": 4
+      },
+      {
+        "label": "cti",
+        "value": 3
+      },
+      {
+        "label": "aircall-homepage",
+        "value": 3
+      },
+      {
+        "label": "e2e-tests",
+        "value": 3
+      },
+      {
+        "label": "pulse-infra",
+        "value": 3
+      },
+      {
+        "label": "aircall-applause",
+        "value": 3
+      },
+      {
+        "label": "aircall-ios-design-system",
+        "value": 2
+      },
+      {
+        "label": "aircall-ios-voice",
+        "value": 2
+      },
+      {
+        "label": "aircall-everywhere",
+        "value": 2
+      },
+      {
+        "label": "aircall-electron",
+        "value": 2
+      },
+      {
+        "label": "aircall-android",
+        "value": 2
+      },
+      {
+        "label": "public-api-poc",
+        "value": 2
+      },
+      {
+        "label": "livecall-infra",
+        "value": 2
+      },
+      {
+        "label": "public-api",
+        "value": 2
+      },
+      {
+        "label": "graham-infra",
+        "value": 2
+      },
+      {
+        "label": "notifier",
+        "value": 2
+      },
+      {
+        "label": "circleci-orbs",
+        "value": 2
+      },
+      {
+        "label": "front-end-core",
+        "value": 2
+      },
+      {
+        "label": "zendesk",
+        "value": 2
+      },
+      {
+        "label": "aircall-availability",
+        "value": 2
+      },
+      {
+        "label": "aircall-s3-proxy",
+        "value": 2
+      },
+      {
+        "label": "aircall-logs-poc",
+        "value": 2
+      },
+      {
+        "label": "aircall-now",
+        "value": 2
+      },
+      {
+        "label": "aircall-rds-fbi",
+        "value": 2
+      },
+      {
+        "label": "aircall-milks-warehouse",
+        "value": 1
+      },
+      {
+        "label": "aircall-hub-poc",
+        "value": 1
+      },
+      {
+        "label": "aircall-ios",
+        "value": 1
+      },
+      {
+        "label": "routing-poc",
+        "value": 1
+      },
+      {
+        "label": "father",
+        "value": 1
+      },
+      {
+        "label": "go-pkgs",
+        "value": 1
+      },
+      {
+        "label": "aircall-zendesk",
+        "value": 1
+      },
+      {
+        "label": "aircall-assets",
+        "value": 1
+      },
+      {
+        "label": "aircall-jwt",
+        "value": 1
+      },
+      {
+        "label": "mongo-infra",
+        "value": 1
+      },
+      {
+        "label": "aircall-milks-monitoring",
+        "value": 1
+      },
+      {
+        "label": "aircall-css",
+        "value": 1
+      },
+      {
+        "label": "aircall-fisheye",
+        "value": 1
+      },
+      {
+        "label": "flagbot",
+        "value": 1
+      },
+      {
+        "label": "aircall-electron-server",
+        "value": 1
+      },
+      {
+        "label": "working_hours",
+        "value": 1
+      },
+      {
+        "label": "aircall-smashing",
+        "value": 1
+      },
+      {
+        "label": "aircall-milks-summary",
+        "value": 1
+      },
+      {
+        "label": "aircall-radish-extract",
+        "value": 1
+      },
+      {
+        "label": "aircall-bridge-error-reporting",
+        "value": 1
+      },
+      {
+        "label": "aircall-bridge-retry-log",
+        "value": 1
+      },
+      {
+        "label": "aircall-milks-integrations-den",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "type": "table",
+    "title": "Which repository merge its pull requests the most quickly on average ?",
+    "headers": [
+      "",
+      "Open duration of a PR on average"
+    ],
+    "list": [
+      [
+        "1. aircall-homepage",
+        "14 minutes and 14 seconds"
+      ],
+      [
+        "2. sbc",
+        "7 hours, 46 minutes and 13 seconds"
+      ],
+      [
+        "3. data-platform",
+        "11 hours, 5 minutes and 20 seconds"
+      ],
+      [
+        "4. aircall-data",
+        "12 hours, 23 minutes and 35 seconds"
+      ],
+      [
+        "5. secrets",
+        "21 hours, 58 minutes and 58 seconds"
+      ],
+      [
+        "6. phone",
+        "1 day, 3 hours and 26 minutes"
+      ],
+      [
+        "7. tree",
+        "1 day, 8 hours and 33 minutes"
+      ],
+      [
+        "8. aircall-android-v2",
+        "1 day, 9 hours and 59 minutes"
+      ],
+      [
+        "9. octopus",
+        "1 day, 12 hours and 40 minutes"
+      ],
+      [
+        "10. hub",
+        "1 day, 14 hours and 14 minutes"
+      ],
+      [
+        "11. maestro",
+        "1 day, 15 hours and 3 minutes"
+      ],
+      [
+        "12. aircall-bridge",
+        "1 day, 17 hours and 57 minutes"
+      ],
+      [
+        "13. aircall-strongbox",
+        "1 day, 18 hours and 6 minutes"
+      ],
+      [
+        "14. merlin",
+        "1 day, 19 hours and 28 minutes"
+      ],
+      [
+        "15. aircall-phone",
+        "1 day, 20 hours and 40 minutes"
+      ],
+      [
+        "16. aircall-dashboard",
+        "2 days and 13 minutes"
+      ],
+      [
+        "17. aircall-service-core",
+        "2 days, 14 hours and 18 minutes"
+      ],
+      [
+        "18. aircall-ios-v2",
+        "2 days, 17 hours and 50 minutes"
+      ],
+      [
+        "19. aircall-livecall",
+        "3 days and 14 minutes"
+      ],
+      [
+        "20. aircall-web",
+        "3 days, 9 hours and 10 minutes"
+      ],
+      [
+        "21. graham",
+        "3 days, 11 hours and 17 minutes"
+      ],
+      [
+        "22. pulse",
+        "4 days, 4 hours and 26 minutes"
+      ]
+    ]
+  }
+]

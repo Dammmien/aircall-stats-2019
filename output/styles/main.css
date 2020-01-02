@@ -1,0 +1,40 @@
+@font-face {
+  font-family: "HKGroteskPro";
+  font-weight: 400;
+  src: url("../fonts/HKGroteskPro/HKGroteskPro-Regular.woff2") format("woff2"), url("../fonts/HKGroteskPro/HKGroteskPro-Regular.woff") format("woff");
+}
+
+@font-face {
+  font-family: "HKGroteskPro";
+  font-weight: 600;
+  src: url("../fonts/HKGroteskPro/HKGroteskPro-Medium.woff2") format("woff2"), url("../fonts/HKGroteskPro/HKGroteskPro-Medium.woff") format("woff");
+}
+
+html,
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  overflow-y: initial;
+  background: var(--light);
+  font-family: "HKGroteskPro", serif;
+}
+
+thead th {
+  background: var(--primary);
+  color: var(--white);
+  position: sticky;
+  top: 0;
+}
+
+tbody tr td:first-child {
+  color: var(--primary);
+}
+
+.table td, .table th { padding: 1rem 1rem; }
+
+.card {
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
+  max-height: 575px;
+  overflow-y: scroll;
+}
