@@ -36,5 +36,5 @@ tbody tr td:first-child {
 .card {
   box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
   max-height: 575px;
-  overflow-y: scroll;
+  overflow-y: auto;
 }
